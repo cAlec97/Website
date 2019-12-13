@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>My Website</title>
+  </head>
+  <body>
+    <h2>The Beauty Of Digital Art</h2>
+
+
+<img src="https://www.desktopbackground.org/p/2015/12/16/1058410_fantasy-landscape-art-artwork-nature-scenery-wallpapers_3360x1890_h.jpg" alt="">
+
+<strong>
+  Digital Arts Is Just like anyother painting, drawings and sketching
+  and also what you see in galleries and including museums. What artist have very
+  differnt creativity and also would be using so many different tools have so many
+  smart ways to use their tools and also the techniques they also pick and choose
+  whatever that will make their beautiful creative digital arts there is also
+  other thing they like to piant with (oil, Watercolors or even pixcels). However,
+  with what type of technology that has to been deals with digital painting and pixeling
+  what an mastery over with other tools and such. with [Software, equipment,etc] what these
+  types of software and programming that you can you use with digital arts and other type
+  what mostly evey artist is about three basic categories.
+</strong>
+<ul>
+  <li>-Digital painting</li>
+  <li>-Digital Photograpgy</li>
+  <li>-Freactals/Algorithic</li>
+  <li>-Intergrated Digital Art</li>
+  <li>-PhotoPainting</li>
+  <li>-Vetor Drawings</li>
+</ul>
+
+<strong><bold>
+  Other then that so many or several subcategories and also of course, and the
+  great part that some digital artist will combine all these types of art into
+  one which way digital art looks soo beauiful so amazing. And including so
+  creative make something so great, with just using technology it is so crazy
+  how what technologies these days can do for anyone in this world. How some like
+  tablet can make something just by drawing or sketching, painting on a canvas
+  its the samething but differnt in someway of what digital Art make me be so
+  interested me into how prefect they can make something on screen.
+  Turning it into something so amazing and beauiful like some artist can and
+  few techquies they do to make it look they want to make it look. Photograpgy
+  digitaling what the artist uses or may conventional camras. what the Photographs
+  will be translated to a computer environment when the artist takes images and then
+  edits also does a few other things like special effects software to it make its
+  platform in a darkroom type of manipulation Digital collage with this type of
+  software is a combines of any kind of image from sources that varying in one
+  i guess you can say that and differnt techniques to an unqiue of the results.
+  what the digital type of environment is to be less of restricted and also a
+  medium intergration maniplation.
+</strong></bold>
+
+
+<img src="https://www.brownbagfilms.com/images/cache/4c999d5c0d2af269/Forset_Colour_Digital_Painting_Brown_Bag_Films_Adrian_Mulryan_01_800_305.jpg" alt="">
+
+<p>it does not matter How
+slowly you go as long as you <strong>do not stop</strong></p>
+
+<img class="photo" />
+
+<h2 class="title"> title,</h2>
+<div class="post post-featured">
+<h2>Post title</h2>
+<p> post description</p>
+</div>
+
+<header>
+  <h1 class="title"> Big title</h1>
+</header>
+
+<div class=" box">
+  <p>Im in a Box</p>
+</div>
+
+  <div class="container">
+
+    <section>
+      <h1>Container 1</h1>
+    </section>
+
+    <section>
+       <h1>container 2</h1>
+    </section>
+
+  </div>
+
+  <header>
+    <h1>Main title</h1>
+  </header>
+  <div class="banner">,</div>
+<section>
+  <h1>section title</h1>
+</section>
+  </div>
+
+  </div>
+
+  </body>
+</html>

@@ -1,0 +1,289 @@
+body  {
+	background: red;
+}
+body {
+	background-color: AliceBlue;
+
+	color: DarkslateBlue
+}
+body {
+	background-color: AliceBlue
+	Color: DarkslateBlue
+}
+ h1 {
+	 color: red;
+ }
+ h1 {
+	 front-family: helvetia, Arial;
+ }
+ Body { background-color: AliceBlue;
+	 color: DarkslateBlue;
+	 font-family: arial;
+ }
+ Body {
+	 font-style: 'Noto serif TC', Georgia, serif
+ }
+
+ /* Website style */
+Body {
+	background-color: Grey;
+	color: white;
+}
+body {
+	font-family: 'lato' , Arial, sans-serif;
+	background-color: slategray;
+	color: white;
+}
+body {
+	/* background-color: grey; */
+	color: white;
+}
+p {
+	color: red;
+	color: blue;
+}
+p {
+	color: white;
+}
+body {
+	color: blue;
+	font-family: helvetica;
+}
+h1 {
+	color: red;
+}
+/* Website Style */
+
+* {
+	font-size: 100%;
+}
+body {
+	background-color: white;
+	color: black;
+}
+body {
+	background-color: white;
+	color: white
+	font-family: helvetia;
+	font-size: 14px;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 18px;
+}
+h1 {
+	font-weight: bold;
+}
+h2 {
+	font-weight: 700;
+}
+h1, h2, h3 {
+	font-weight: normal;
+}
+h1, h2, h3, {
+	font-weight: 900;
+}
+h1, h2, h3 {
+	font-weight: bold;
+	font-style: italic;
+}
+p {
+	line-height: 2;
+}
+h1 {
+	text-align: center;
+}
+parent child {
+	/*css rules here */
+}
+footer p {
+	font-size: 13px;
+}
+h1 {
+	text-align: left;
+}
+header h1 {
+	text-align: center;
+}
+section li a {
+	color: red;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+element:state {
+	/*css rules go here */
+}
+a:hover {
+	text-decoration: underline;
+}
+a:link,
+a:focus,
+a:active {
+	text-decoration: none;
+	color: red;
+}
+a:hover{
+	text-decoration: underline;
+}
+a:visited {
+	color: grey;
+}
+* {
+	font-size: 100%;
+	border: 1px soild red;
+}
+* {
+	font-size: 100%;
+	/* border: 1px soild red; */
+}
+ * {
+	 font-size: 100%;
+	 margin:0;
+	 underline 1;
+	 /* border: 1px soild red; */
+ }
+ body {
+	 background-color: grey;
+	 color: white;
+	 font-family: helvetia;
+	 font-size: 16;
+	 margin: 50px;
+ }
+ p {
+	 margin-top: 10px;
+	 margin-bottom: 2-px;
+	 margin-right: 30px;
+	 margin-left: 0px;
+ }
+ h2, h2, h3 {
+	 margin-bottom: 20px;
+ }
+ body {
+	 margin: 10px 20px 10 px
+ }
+ h1 {
+	 margin: 30px 0;
+ }
+ p {
+	 margin: 15px 0;
+ }
+ ul, ol {
+	 margin: 15px 0;
+ }
+ header,
+ section,
+ footer {
+	 padding: 30px;
+ }
+h1 {
+	border-bottom: 1px soild white;
+}
+section {
+	border: 1px dashed black;
+}
+header {
+	border-bottom: 5px soild white;
+}
+section {
+	border: 1px soild gainboro;
+	background-color: white;
+	margin: 30px;
+	padding: 30px;
+}
+section {
+	width: 50%;
+}
+img {
+	width: 300px;
+}
+section {
+	width: 50%;
+	height: 50%;
+}
+img {
+	width: 300px;
+	height: 200%;
+}
+* {
+	font-size: 100%;
+	margin: 0;
+	line-height: 1;
+	box-sizing: border-box;
+	/* border: 1px soild red; */
+}
+img {
+	width: 400px;
+}
+img {
+	height: 300px;
+}
+.blog-title {
+	font-size: 36px;
+}
+blog-post h2 {
+	font-size: 24px;
+	color: red;
+}
+title{
+	font-size: 48px;
+	text-decoration: underline;
+}
+.title {
+	color: blue;
+}
+h1 {
+	color: black;
+}
+#about {
+	background-color: black;
+	color: white;
+}
+.box {
+	border: 1px solid black;
+	padding: 300px;
+}
+.box p {
+	font-size: 24px;
+}
+container {
+	max width: 1000px;
+	margin: 0 auto;
+}
+.box {
+	background-image: url(http://hdwpro.com/wp-content/uploads/2016/07/Old-Digital-Art.jpg);
+	width: 100px;
+	height: 100px;
+}
+body{
+	background-image: url(http://hdwpro.com/wp-content/uploads/2016/07/Old-Digital-Art.jpg);
+}
+.box {
+	background-image: url(http://hdwpro.com/wp-content/uploads/2016/07/Old-Digital-Art.jpg);
+	background-repeat: no-repeat;
+}
+.banner {
+	height: 350px;
+	background-image: url(http://www.baltana.com/files/wallpapers-16/Abstract-Digital-Art-Background-HD-Wallpapers-41508/banner.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.box {
+	background-image: image(http://www.baltana.com/files/wallpapers-16/Abstract-Digital-Art-Background-HD-Wallpapers-41508.jpg);
+	background-size: 100%;
+}
+.photo {
+	background-position: 50% right;
+}
+.icon {
+	background-position: 0 100%;
+}
+h2 {
+	color: white;
+}
